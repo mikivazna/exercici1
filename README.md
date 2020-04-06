@@ -1,1 +1,1 @@
-# exercici1
+# git-exercici
